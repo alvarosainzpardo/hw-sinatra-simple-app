@@ -8,7 +8,7 @@ GEM
       ruby_dep (~> 1.2)
     mustermann (1.0.3)
     rack (2.0.5)
-    rack-protection (2.0.3)
+    rack-protection (2.0.4)
       rack
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -16,10 +16,10 @@ GEM
     rerun (0.13.0)
       listen (~> 3.0)
     ruby_dep (1.5.0)
-    sinatra (2.0.3)
+    sinatra (2.0.4)
       mustermann (~> 1.0)
       rack (~> 2.0)
-      rack-protection (= 2.0.3)
+      rack-protection (= 2.0.4)
       tilt (~> 2.0)
     tilt (2.0.8)
 
@@ -31,7 +31,7 @@ DEPENDENCIES
   sinatra (>= 2.0.1)
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.4.0p0
 
 BUNDLED WITH
-   1.16.3
+   1.16.4
